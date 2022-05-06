@@ -1,3 +1,4 @@
+<img src="https://github.com/tiaralgrier/tiaralgrier/blob/main/github_banner.png?raw=true" alt="Profile banner of junior software engineer Tiara L. Grier" />
 <h1 align="center">Hi 👋🏾! I'm Tiara L. Grier</h1>
 <h4 align="center">An organized and motivated junior engineer focused on pivoting into the tech industry from retail. I’m eager to develop my acquired skills by learning from top teams and completing development projects.</h4>
 
