@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a Full-Stack cert**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, Git, and Node.js**
 
 - 🤝 I’m looking for help with **software engineering resources**
 
