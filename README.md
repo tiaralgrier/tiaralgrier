@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋🏾! I'm Tiara L. Grier</h1>
 <h4 align="center">An organized and motivated junior engineer focused on pivoting into the tech industry from retail. I’m eager to develop my acquired skills by learning from top teams and completing development projects.</h4>
 
-- 🔭 I’m currently working on **a Full-Stack cert**
+- 🔭 I’m currently working on my **Masters in Software Engineering at Kennesaw State University**
 
-- 🌱 I’m currently learning **JavaScript, Git, and Node.js**
+- 🌱 I’m currently learning **Java, Ruby, and React**
 
 - 🤝 I’m looking for help with **software engineering resources**
 
 - 📫 How to reach me **tiaragrier2@gmail.com**
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1zCToTPkP6gwFhhG6sD_8GCV6mWF9YbuX/view?usp=sharing)
+- 📄 Know about my experiences from my [resume]([https://drive.google.com/file/d/1zCToTPkP6gwFhhG6sD_8GCV6mWF9YbuX/view?usp=sharing](https://drive.google.com/file/d/1g4gT-52juv6EPJDYXVp1r1FCXpS8_gy8/view?usp=sharing))
 
 - ⚡ Fun fact **I'm a Harry Potter fan ⚡️ and I'm obsessed with horror movies 🔪**
 
