@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tiaragrier2@gmail.com**
 
-- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1g4gT-52juv6EPJDYXVp1r1FCXpS8_gy8/view?usp=sharing">**resume**</a>
+- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1g4gT-52juv6EPJDYXVp1r1FCXpS8_gy8/view?usp=sharing" target="_blank">**resume**</a>
 
 - ⚡ Fun fact **I'm a Harry Potter fan ⚡️ and I'm obsessed with horror movies 🔪**
 
