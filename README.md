@@ -1,6 +1,6 @@
-<img src="https://github.com/tiaralgrier/tiaralgrier/blob/main/Github Banner.png?raw=true" alt="Profile banner of junior software engineer Tiara L. Grier" />
+<img src="https://github.com/tiaralgrier/tiaralgrier/blob/main/Github Banner.png?raw=true" alt="Profile banner of software engineer Tiara L. Grier" />
 <h1 align="center">Hi 👋🏾! I'm Tiara L. Grier</h1>
-<h4 align="center">An organized and motivated junior engineer focused on pivoting into the tech industry from retail. I’m eager to develop my acquired skills by learning from top teams and completing development projects.</h4>
+<p align="center">An organized and motivated junior engineer focused on pivoting into the tech industry from retail. I’m eager to develop my acquired skills by learning from top teams and completing development projects.</p>
 
 - 🔭 I’m currently on track to graduate with my in **Masters in Software Engineering at Kennesaw State University** May 2024
 
@@ -11,6 +11,11 @@
 - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1AOh619bEPn5yfgQ1odj9arao83-bkLce/view?usp=sharing" target="_blank">**resume**</a>
 
 - ⚡ Fun fact **I'm a Harry Potter fan ⚡️ and I'm obsessed with horror movies 🔪**
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaralgrier&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiaralgrier&show_icons=true&theme=radical&rank_icon=github)
 
 ---
 
