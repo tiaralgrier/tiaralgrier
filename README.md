@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋🏾! I'm Tiara L. Grier</h1>
 <h4 align="center">An organized and motivated junior engineer focused on pivoting into the tech industry from retail. I’m eager to develop my acquired skills by learning from top teams and completing development projects.</h4>
 
-- 🔭 I’m currently working on my **Masters in Software Engineering at Kennesaw State University**
+- 🔭 I’m currently on track to graduate with my in **Masters in Software Engineering at Kennesaw State University** May 2024
 
-- 🌱 I’m currently learning **Java, Ruby, and React**
+- 🌱 I’m currently learning **Python, C#, and Unity**
 
-- 🤝 I’m looking for help with **software engineering resources**
-
-- 📫 How to reach me **tiaragrier2@gmail.com**
+- 📫 How to reach me: **<a href="mailto:tiaragrier2@gmail.com">Email</a>** and  **<a href="tiaralgrier.com">Portfolio</a>**
 
 - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1AOh619bEPn5yfgQ1odj9arao83-bkLce/view?usp=sharing" target="_blank">**resume**</a>
 
@@ -40,9 +38,3 @@
 <br/ >
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg" class="bootstrap" width="75">
 </p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiaralgrier&show_icons=true&locale=en&layout=compact" alt="tiaralgrier" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiaralgrier&show_icons=true&locale=en" alt="tiaralgrier" /></p>
