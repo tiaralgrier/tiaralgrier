@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Python, C#, and Unity**
 
-- 📫 How to reach me: **<a href="mailto:tiaragrier2@gmail.com">Email</a>** and  **<a href="tiaralgrier.com">Portfolio</a>**
+- 📫 How to reach me: **<a href="mailto:tiaragrier2@gmail.com">Email</a>** and **<a href="tiaralgrier.com">Portfolio</a>**
 
-- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1AOh619bEPn5yfgQ1odj9arao83-bkLce/view?usp=sharing" target="_blank">**resume**</a>
+- 📄 Know about my experiences from my <a href="[https://drive.google.com/file/d/1AOh619bEPn5yfgQ1odj9arao83-bkLce/view?usp=sharing](https://drive.google.com/file/d/1Q5r2lgspBanLBpgHfwF_x-VVl6Oucge_/view?usp=sharing)" target="_blank">**resume**</a>
 
 - ⚡ Fun fact **I'm a Harry Potter fan ⚡️ and I'm obsessed with horror movies 🔪**
 
